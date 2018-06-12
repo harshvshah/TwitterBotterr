@@ -1,0 +1,26 @@
+{
+  "name": "twitterbotterr",
+  "version": "1.0.0",
+  "description": "A bot to help out manage your twitter account",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshvshah/TwitterBotterr.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "HVS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshvshah/TwitterBotterr/issues"
+  },
+  "homepage": "https://github.com/harshvshah/TwitterBotterr#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
